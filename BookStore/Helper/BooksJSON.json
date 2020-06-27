@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Thinking, Fast and Slow",
+    "title": "Daniel Kahneman",
+    "imageName": "1"
+  },
+  {
+    "id": 2,
+    "name": "Transforming Your Relationship With Money",
+    "title": "Joseph R. Dominguez",
+    "imageName": "2"
+  },
+  {
+    "id": 3,
+    "name": "Good to Great: Why Some Companies Make the Leap...and ...",
+    "title": "James C. Collins",
+    "imageName": "3"
+  },
+  {
+    "id": 4,
+    "name": "Capital in the Twenty-First Century",
+    "title": "Thomas Piketty",
+    "imageName": "4"
+  },
+  {
+    "id": 5,
+    "name": "The Confidence Gap: From Fear to Freedom",
+    "title": "Russ Harris",
+    "imageName": "5"
+  },
+  {
+    "id": 6,
+    "name": "The money game",
+    "title": "George Goodman",
+    "imageName": "6"
+  },
+  {
+    "id": 7,
+    "name": "Sapiens: A Brief History of Humankind",
+    "title": "Yuval Noah Harari",
+    "imageName": "7"
+  }
+]
